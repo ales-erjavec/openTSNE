@@ -7,3 +7,10 @@ __pycache__/
 dist/
 .ipynb_checkpoints/
 .DS_STORE
+
+# cython generated files
+_tsne.cpp
+kl_divergence.cpp
+quad_tree.cpp
+matrix_mul_fftw3.cpp
+matrix_mul_numpy.cpp
